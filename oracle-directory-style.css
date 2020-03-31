@@ -1,0 +1,50 @@
+body {
+   
+    background-color: ghostwhite;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+p.tag {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#canvas {
+    position: absolute
+        top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.predict-tag{
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: white; 
+    padding-top: 10px;
+    border-radius: 15px;
+    margin: 5px;
+
+
+    
+}
+
